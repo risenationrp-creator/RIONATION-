@@ -1,0 +1,32 @@
+SAE000 Exit code : Corrupted header.
+SAE001 Exit code : Conflict with script 'Advanced Vehicle Manager'.
+SAE002 Exit code : Conflict with script 'SkyBoX%1'.
+SAE003 Exit code : Only support gtasa 1.0.8 .
+SAE004 Door Locked
+SAE005 Door Unlocked
+SAE006 ~g~Shift
+SAE007 ~1~.~1~ KmPH
+SAE008 pRPM ~r~~1~ ~w~St ~1~
+SAE009 pRPM ~y~~1~ ~w~St ~1~
+SAE00A Gear ~1~/~1~
+SAE00B Gear NA/~1~
+SAE00C Gear R/~1~
+SAE00D ~1~.~1~ MiPH
+SAE00F Exit code : "SAAExten\Config.ini" not found.
+SAE00G Exit code : Config.ini Corrupted.
+SAE00H Exit code : SAAExten script version not equal with .ini.
+SAE00I Exit code : SAAExten disabled from Config.ini.
+SAE00J SAAExten~n~Config.ini Reloaded.
+SAE00K ~1~~y~m
+SAE00L ~1~~y~y
+SAE00M Fail ~r~~1~~w~x, dec by ~y~~1~~w~%.
+SAE00N In ~y~~1~
+SAE00O ~1~ ~r~~1~
+SAE00P ~1~ ~y~~1~
+SAE00Q ~1~ ~g~~1~
+SAE00R ~1~> ~y~~1~
+SAE00S <~1~ ~y~~1~
+SAE00T ~1~.~1~~y~x
+
+# WeapWheelExt
+WWEN2 ~1~/~w~~1~
