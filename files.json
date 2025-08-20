@@ -1,0 +1,160 @@
+{
+  "files": [
+    {
+      "name": "Adjustable.cfg",
+      "path": "Adjustable.cfg",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/Adjustable.cfg",
+      "size": 1551
+    },
+    {
+      "name": "CAR REFLECTORS.csa",
+      "path": "CAR REFLECTORS.csa",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/CAR%20REFLECTORS.csa",
+      "size": 18552
+    },
+    {
+      "name": "gta_sa.set",
+      "path": "gta_sa.set",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/gta_sa.set",
+      "size": 159
+    },
+    {
+      "name": "FPSNotingLag.csa",
+      "path": "FPSNotingLag.csa",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/FPSNotingLag.csa",
+      "size": 17708
+    },
+    {
+      "name": "GTASAMP10.b",
+      "path": "GTASAMP10.b",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/GTASAMP10.b",
+      "size": 195000
+    },
+    {
+      "name": "GTASAsf1.b",
+      "path": "GTASAsf1.b",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/GTASAsf1.b",
+      "size": 195000
+    },
+    {
+      "name": "GTASAsf6.b",
+      "path": "GTASAsf6.b",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/GTASAsf6.b",
+      "size": 195000
+    },
+    {
+      "name": "GTASAsf9.b",
+      "path": "GTASAsf9.b",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/GTASAsf9.b",
+      "size": 195000
+    },
+    {
+      "name": "GTASAsf10.b",
+      "path": "GTASAsf10.b",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/GTASAsf10.b",
+      "size": 195000
+    },
+    {
+      "name": "gtasatelem.set",
+      "path": "gtasatelem.set",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/gtasatelem.set",
+      "size": 392
+    },
+    {
+      "name": "Optimize_Lag.img",
+      "path": "Optimize_Lag.img",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/Optimize_Lag.img",
+      "size": 773
+    },
+    {
+      "name": "Optimize_Fps.img",
+      "path": "Optimize_Fps.img",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/Optimize_Fps.img",
+      "size": 3011
+    },
+    {
+      "name": "OptimizeFPS.csa",
+      "path": "OptimizeFPS.csa",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/OptimizeFPS.csa",
+      "size": 17708
+    },
+    {
+      "name": "OptimizeLag.csa",
+      "path": "OptimizeLag.csa",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/OptimizeLag.csa",
+      "size": 17708
+    },
+    {
+      "name": "patch_lag_berat.img",
+      "path": "patch_lag_berat.img",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/patch_lag_berat.img",
+      "size": 773
+    },
+    {
+      "name": "patch_lag_ringan.img",
+      "path": "patch_lag_ringan.img",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/patch_lag_ringan.img",
+      "size": 773
+    },
+    {
+      "name": "patch_lag_sedang.img",
+      "path": "patch_lag_sedang.img",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/patch_lag_sedang.img",
+      "size": 773
+    },
+    {
+      "name": "SAAExten.en.fxt",
+      "path": "SAAExten.en.fxt",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/SAAExten.en.fxt",
+      "size": 928
+    },
+    {
+      "name": "samp.set",
+      "path": "samp.set",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/samp.set",
+      "size": 11
+    },
+    {
+      "name": "stream.ini",
+      "path": "stream.ini",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/stream.ini",
+      "size": 197
+    },
+    {
+      "name": "WATER REALISTIC.csa",
+      "path": "WATER REALISTIC.csa",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/WATER%20REALISTIC.csa",
+      "size": 246628
+    },
+    {
+      "name": "ZZZSAAExten.csa",
+      "path": "ZZZSAAExten.csa",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/ZZZSAAExten.csa",
+      "size": 138983
+    },
+    {
+      "name": "fixLagRockstarMobile.dat",
+      "path": "fixLagRockstarMobile.dat",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/3bbf24398f52146fd5f2bea2d2fc30de3caf275b/fixLagRockstarMobile.dat",
+      "size": 123320
+    },
+    {
+      "name": "anim.img",
+      "path": "anim.img",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/7f4b2d78ad400dec23dbeca0cd5bebbce2ab3908/anim.img",
+      "size": 10942464
+    },
+    {
+      "name": "cuts.img",
+      "path": "cuts.img",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/7f4b2d78ad400dec23dbeca0cd5bebbce2ab3908/cuts.img",
+      "size": 16029696
+    },
+    {
+      "name": "ped.ifp",
+      "path": "ped.ifp",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/7f4b2d78ad400dec23dbeca0cd5bebbce2ab3908/ped.ifp",
+      "size": 1433248
+    }
+  ]
+    }
