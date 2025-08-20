@@ -14,6 +14,24 @@
       "size": 392
     },
     {
+      "name": "Adjustable.cfg",
+      "path": "Adjustable.cfg",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/main/Adjustable.cfg",
+      "size": 1551
+    },
+    {
+      "name": "CAR REFLECTORS.csa",
+      "path": "CAR REFLECTORS.csa",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/main/CAR%20REFLECTORS.csa",
+      "size": 18552
+    },
+    {
+      "name": "gta_sa.set",
+      "path": "gta_sa.set",
+      "url": "https://raw.githubusercontent.com/risenationrp-creator/RIONATION-/main/gta_sa.set,
+      "size": 159
+    },
+    {
       "name": "stream.ini",
       "path": "stream.ini",
       "url": "https://server3.sampmobile.com/files/stream.ini",
