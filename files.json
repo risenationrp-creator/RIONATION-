@@ -556,13 +556,13 @@
       "name": "player.img.",
       "path": "texdb/player.img",
       "url": "https://github.com/risenationrp-creator/RioNationFiles/releases/download/v1.0/player.img",
-      "size": 16412672B
+      "size": 16412672
     }
     {
       "name": "SAMP.ide.",
       "path": "texdb/SAMP.ide",
       "url": "https://github.com/risenationrp-creator/RioNationFiles/releases/download/v1.0/SAMP.ide",
-      "size": 87794B
+      "size": 87794
     }
     {
       "name": "SAMP.img.",
@@ -574,7 +574,7 @@
       "name": "SAMP.ipl.",
       "path": "texdb/SAMP.ipl",
       "url": "https://github.com/risenationrp-creator/RioNationFiles/releases/download/v1.0/SAMP.ipl",
-      "size": 2291B
+      "size": 2291
     }
     {
       "name": "sampcol.img.",
